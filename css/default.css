@@ -1,0 +1,86 @@
+body {
+color: #797F88;
+font-size: 12px;
+font-family: tahoma, verdana, arial, sans-serif, Lucida Sans;
+background: #232a34;
+max-width: 400px;
+margin: auto;
+}
+h1, h2, h3, h4 {
+margin: 0;
+}
+
+img {
+border: 0;
+}
+
+a {
+color: #8B919B;
+text-decoration: none;
+}
+
+a:hover {
+color: #9CB72F;
+text-shadow: -1px 1px 2px #555;
+text-decoration: none;
+}
+
+#gray {
+color: #586776;
+font-size: 11px;
+}
+
+#box {
+background-color: #434343;
+border: 1px solid #5D5A5E;
+padding: 2px;
+}
+
+#head {
+color: #D1D1D3;
+background-image: url(head.gif);
+background-color: #474F62;
+border: 1px solid #4C566A;
+padding: 5px;
+}
+
+#zag {
+color: #2C333F;
+font-weight: bold;
+background-image: url(zag.gif);
+background-color: #8AA21D;
+border: 1px solid #B4CA4C;
+margin: 1px 1px 1px 1px;
+padding: 4px 4px 4px 4px;
+}
+
+#css {
+background-image: url(zag2.gif);
+background-repeat: no-repeat;
+background-position: right 50%;
+height: 15px;
+}
+
+#news {
+background-image: url(news.gif);
+background-color: #29313C;
+border: 1px solid #4C566A;
+margin: 1px 1px 1px 1px;
+padding: 4px 4px 4px 4px;
+}
+
+#menu {
+background-image: url(menu.gif);
+background-color: #2E3642;
+border: 1px solid #4C566A;
+margin: 1px 1px 1px 1px;
+padding: 4px 4px 4px 4px;
+}
+
+#foot {
+color: #D1D1D3;
+background-image: url(foot.gif);
+background-color: #474F62;
+border: 1px solid #4C566A;
+padding: 5px;
+}
